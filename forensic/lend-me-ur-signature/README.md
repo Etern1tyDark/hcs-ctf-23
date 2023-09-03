@@ -1,4 +1,4 @@
-![image](https://github.com/Etern1tyDark/hcs-ctf-23/assets/76277790/9c62987b-e6b7-4860-915d-0cc6727e243a)# Lend me your signature
+# Lend me your signature
 
 Author: abdierryy
 
