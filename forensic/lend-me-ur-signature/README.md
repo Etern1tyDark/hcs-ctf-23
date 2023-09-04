@@ -19,7 +19,7 @@ Easy (hm)
 ### EN
 The first step for me was, look into photo "signatures". Then I found hex signatures, and also HxD.
 
-After downloading HxD, I checked te hex signature of the file and......
+After downloading HxD, I checked the hex signature of the file and......
 
 ![header](images/image_2023-09-03_224603200.png)
 
